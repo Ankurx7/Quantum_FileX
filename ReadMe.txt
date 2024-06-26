@@ -7,7 +7,7 @@ Technologies Used
 
 -->C++
 -->Standard Template Library (STL)
--->Huffman Coding Algorithms for compression
+-->Huffman Coding Algorithm for compression
 -->Encryption and decryption for file content
 
 
